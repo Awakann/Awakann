@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Awakann/Awakann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm RAJI AYOMIDE SHINAYOMI 👋
+🚀 Full-Stack Web Developer
+💻 AWS Solutions Architect
+📃 Devops Engineer.
+🚀 I build scalable web Applications from Frontend to Backend
+💻 Tech Stack : REACT, NODE.JS, EXPRESS, MONGODB.
+🔭 I’m currently working on Employee Leave MAnagement System
+ 👯 I’m looking to collaborate on Projects
+ 📫 How to reach me: awakan.mubo@gmail.com || shyprogramming@gmail.com || 07067942846
+  
